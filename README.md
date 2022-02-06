@@ -1,4 +1,4 @@
-# data_analysis
+# data_analysis_with_stats
 
 통계학에 대한 공부와 함께
 
